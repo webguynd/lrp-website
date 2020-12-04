@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "http://lautenbachrecycling.com/"
+baseURL = "https://flamboyant-fermi-ca797b.netlify.app/"
 title = "Lautenbach Recycling"
 theme = "bigspring"
 languageName = "En"
