@@ -1,0 +1,130 @@
+####################### Banner #########################
+banner:
+  title : "More food reaches our landfills and combustion facilities than any other single material<sup style='font-size: 0.5em'>*EPA estimates in 2018</sup>"
+  image : "images/takeout-boxes.svg"
+  content : "20% of total U.S. emissions come from landfills. We are passionate about food waste recycling. Click below to learn more about how we are helping."
+  button:
+    enable : true
+    label : "Get Involved"
+    link : "#"
+
+##################### Feature ##########################
+feature:
+  enable : true
+  title : "Our Services"
+  feature_item:
+    # feature item loop
+    - name : "Sustainable Demolition"
+      icon : "ti-hummer"
+      content : "Let our expert demolition team take care of your next demolition project. Save money and go green!"
+      link : "demolition"
+      
+    # feature item loop
+    - name : "Self-Haul Recycling"
+      icon : "fas fa-recycle"
+      content : "Our state of the art recycling facility is open to the public, loads of any size and no presorting required."
+      link : "self-haul"
+      
+    # feature item loop
+    - name : "Drop Boxes"
+      icon : "fas fa-parachute-box"
+      content : "Let us drop off a container at your location and we'll haul it back when it's full."
+      link : "pricing"
+      
+    # feature item loop
+    - name : "Transportation"
+      icon : "fas fa-truck-loading"
+      content : "With a large fleet, we're able to help you haul your waste materials to where they need to go quickly and safely. "
+      link : "transportation"
+      
+    # feature item loop
+    - name : "Organic & Food Recycling"
+      icon : "fas fa-shopping-basket"
+      content : "We've partnered with Skagit Soils Inc. to help lead the food waste revolution. "
+      
+    # feature item loop
+    - name : "24 hour service"
+      icon : "ti-alarm-clock"
+      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      
+
+
+######################### Service #####################
+service:
+  enable : true
+  service_item:
+    # service item loop
+    - title : "As an industry leader, we are one of only two RCI certified construction and demolition recyclers in the northwest"
+      images:
+      - "images/tandtaward.jpg"
+      - "images/rci-logo.png"
+   
+      content : "Certification is based on our recycle rate. Because of this, you can trust that we exceed the recycling rates required for LEED projects.
+      In addition, we are also the 2019 Gold Award recipient for the Construction & Demolition World Safety Awards, and we were awarded Silver in 2018. In 2005, we were awarded WSRA's Recycler of the Year.
+      <br><br>
+       We are also proud members of the CDRA, WSRA, Sustainable Connections, SICBA, EDASC and Food Northwest"
+      button:
+        enable : true
+        label : "Learn more RCI Certification"
+        link : "https://www.recyclingcertification.org/"
+        
+    # service item loop
+    - title : "Going green doesn't have to be complicated"
+      images:
+      - "images/plant-hand.svg"
+      content : "Since 1991, the local family team at Lautenbach Recycling has been helping drive sustainability in our local community with great service, quality and thoroughness."
+      button:
+        enable : true
+        label : "Meet our team"
+        link : "#"
+        
+    # service item loop
+    - title : "Full service, low-waste demolition. Quick, sustainable and affordable"
+      images:
+      - "images/service-2.png"
+      content : "Demolition represents more than 90 percent of total C&D debris generation. It is a significant waste stream in the United States, and we can divert the materials from our landfills and into new, productive uses."
+      button:
+        enable : true
+        label : "Learn more & Get a Quote"
+        link : "#"
+        
+    # service item loop
+    - title : "Keeping organic waste out of our landfills and our water supplies"
+      images:
+      - "images/service-3.png"
+      content : "We have special roll-off boxes designed for high-liquied, low-BOD materials for safe, secure containment. We can come to you! We'll do an audit of your waste system and help you implement sustainable solutions and save money."
+      button:
+        enable : true
+        label : "Learn more & Find out where the organics go"
+        link : "#"
+
+    - title : "See what our customers are saying about us"
+      images:
+      - "images/service-3.png"
+      - "images/service-2.png"
+      content: "Don't just take our word for our level of service, see what our cusomers are saying about us."
+      button:
+        enable : true
+        label : "Follow us on social media"
+        link : "#"
+        
+
+
+################### Screenshot ########################
+screenshot:
+  enable : true
+  title : "Experience the best service with us"
+  image : "images/ss-3.jpg"
+
+  
+
+##################### Call to action #####################
+call_to_action:
+  enable : true
+  title : "Ready to work with us?"
+  image : "images/cta.svg"
+  content : "Stop by our recycle park with your materials, or contact us to order a drop box. We offer affordable rates and flexible service."
+  button:
+    enable : true
+    label : "Contact Us"
+    link : "contact"
