@@ -81,7 +81,7 @@ service:
     # service item loop
     - title : "Full service, low-waste demolition. Quick, sustainable and affordable"
       images:
-      - "images/service-2.png"
+      - "images/download-icons8.png"
       content : "Demolition represents more than 90 percent of total C&D debris generation. It is a significant waste stream in the United States, and we can divert the materials from our landfills and into new, productive uses."
       button:
         enable : true
@@ -91,7 +91,7 @@ service:
     # service item loop
     - title : "Keeping organic waste out of our landfills and our water supplies"
       images:
-      - "images/service-3.png"
+      - "images/farmer-tree2.png"
       content : "We have special roll-off boxes designed for high-liquied, low-BOD materials for safe, secure containment. We can come to you! We'll do an audit of your waste system and help you implement sustainable solutions and save money."
       button:
         enable : true
@@ -100,8 +100,8 @@ service:
 
     - title : "See what our customers are saying about us"
       images:
-      - "images/service-3.png"
-      - "images/service-2.png"
+      - "images/jaycch.png"
+      - "images/nl-logo.png"
       content: "Don't just take our word for our level of service, see what our cusomers are saying about us."
       button:
         enable : true

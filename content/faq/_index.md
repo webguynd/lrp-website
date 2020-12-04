@@ -45,7 +45,7 @@ If you'd prefer to have the waiver pre-filled out, you may download a copy of it
 {{< faq "Do you accept ....?" >}}
 We accept a wide variety of materials ranging from drywall, to metal and everything in between.
 
-For a full list of what we currently accept, please take a look at our [acceptable materials list](#)
+For a full list of what we currently accept, please take a look at our [acceptable materials list](../self-haul/acceptable-materials)
 
 <i class="fas fa-check-square"></i> Painted wood is OK (if not lead paint, we can test it for you) <br>
 <i class="fas fa-check-square"></i> Wood with nails is OK <br>
