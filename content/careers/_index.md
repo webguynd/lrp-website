@@ -1,6 +1,6 @@
 ---
 title: "Careers at Lautenbach Recycling"
-subtitle: "Join the Lautenbach Recycling family and help us make a difference"
+subtitle: "Join the Lautenbach Recycling family and help us make a difference. [View our current openings](https://lautenbachrecycling.bamboohr.com/jobs/)"
 image: "images/work-with-us.png"
 # meta description
 description: "This is meta description"
@@ -63,3 +63,7 @@ draft: false
         </div>
     </div>
 </div>
+
+## Apply Today
+
+[Like what you see? Want to be apart of something great? Click here to check out a list of our current openings and apply! We'd love to hear from you.](https://lautenbachrecycling.bamboohr.com/jobs/)
