@@ -1,6 +1,7 @@
 ---
 title: "Waste Hauling"
 subtitle: "Economical transportation services you can trust"
+image: "images/lr-truck.png"
 # meta description
 description: "This is meta description"
 draft: false

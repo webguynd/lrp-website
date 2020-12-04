@@ -45,7 +45,7 @@ feature:
     # feature item loop
     - name : "24 hour service"
       icon : "ti-alarm-clock"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      content : "DUMMY CONTENT - REPLACE WITH ACTUAL CONTENT BEFORE DEPLOYING"
       
 
 
@@ -86,7 +86,7 @@ service:
       button:
         enable : true
         label : "Learn more & Get a Quote"
-        link : "#"
+        link : "demolition"
         
     # service item loop
     - title : "Keeping organic waste out of our landfills and our water supplies"
@@ -122,7 +122,7 @@ screenshot:
 call_to_action:
   enable : true
   title : "Ready to work with us?"
-  image : "images/cta.svg"
+  image : "images/cta-2.png"
   content : "Stop by our recycle park with your materials, or contact us to order a drop box. We offer affordable rates and flexible service."
   button:
     enable : true

@@ -77,6 +77,10 @@ URL = "contact"
 name = "Careers"
 URL = "careers"
 
+[[menu.footer_left]]
+name = "Gallery"
+URL = "#"
+
 
 # footer menu middle
 [[menu.footer_middle]]
