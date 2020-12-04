@@ -75,7 +75,7 @@ URL = "contact"
 
 [[menu.footer_left]]
 name = "Careers"
-URL = "#"
+URL = "careers"
 
 
 # footer menu middle
