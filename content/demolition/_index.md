@@ -15,3 +15,23 @@ We think our demolition work speaks for itself. Take a look!
 ## Our Work
 
 Insert a bunch of before & after images here
+
+<div class="container">
+    <div class="row">
+        <div class="col-md">
+            <img src="../images/demolition/Haggenes.jpg" class="img-fluid">
+        </div>
+        <div class="col-md">
+            <img src="../images/demolition/skagit-airport.jpg" class="img-fluid">
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md">
+            <img src="../images/demolition/luke-ezra.jpg" class="img-fluid">
+        </div>
+        <div class="col-md">
+            <img src="../images/demolition/syd-korrel.jpg" class="img-fluid">
+        </div>
+    </div>
+</div>
+        
