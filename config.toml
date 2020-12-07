@@ -114,7 +114,7 @@ URL = "faq"
 
 #################### default parameters ################################
 [params]
-logo = "images/logo2.svg"
+logo = "images/logo3.svg"
 logo_width = "200px"
 # Meta data
 description = "Lautenbach Recycling - Construction & Demolition Recycling, Sustainable Demolition, Green Building, Transportation, Organics Recycling, Waste Management Solutions and more"
