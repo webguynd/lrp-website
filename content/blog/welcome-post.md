@@ -4,7 +4,7 @@ date: 2020-04-18T10:07:21+06:00
 # post image
 image: "images/blog/post-1.jpg"
 # post type (regular/featured)
-type: "featured"
+type: "regular"
 # meta description
 description: "First blog post, covid-19 opportunities and a requst for feedback"
 # post draft

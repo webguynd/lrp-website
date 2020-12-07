@@ -64,6 +64,42 @@ name = "FAQ"
 URL = "faq"
 weight = 5
 
+[[menu.main]]
+name = "Services"
+URL = "#"
+weight = 6
+identifier = "services"
+
+[[menu.main]]
+name = "Demolition"
+url = "/demolition"
+parent = "services"
+weight = 1
+
+[[menu.main]]
+name = "Self Haul"
+url = "/self-haul"
+parent = "services"
+weight = 2
+
+[[menu.main]]
+name = "Drop Boxes"
+url = "/pricing"
+parent = "services"
+weight = 3
+
+[[menu.main]]
+name = "Transportation"
+url = "/transportation"
+parent = "services"
+weight = 4
+
+[[menu.main]]
+name = "Organics Recycling"
+url = "/organics"
+parent = "services"
+weight = 5
+
 # footer menu left
 [[menu.footer_left]]
 name = "About Us"

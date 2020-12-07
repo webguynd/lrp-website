@@ -25,7 +25,7 @@ professional:
   image : "images/dbox.jpg"
  # price: "$49"
  # price_per : "month"
-  info : "22' L x 8' W x 9' H"
+  info : "22' L x 8' W x 9' H <br> 40 yards"
   services:
   - "Commercial & multi-family construction sites"
   - "Anytime high volume and capacity is required"
@@ -41,7 +41,7 @@ business:
   image : "images/dbox.jpg"
 #  price: "$49"
 #  price_per : "month"
-  info : "16' L x 8' W x 4'-6' H"
+  info : "16' L x 8' W x 4'-6' H <br> 20-30 yards"
   services:
   - "Large residential sites"
   - "Multi-family sites"

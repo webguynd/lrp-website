@@ -6,7 +6,7 @@ banner:
   button:
     enable : true
     label : "Get Involved"
-    link : "#"
+    link : "/blog/stop-food-waste"
 
 ##################### Feature ##########################
 feature:
