@@ -17,7 +17,6 @@ Click on any of the materials below to learn how we recycle them
         <a data-toggle="modal" data-target="#woodModal"> <i class="fas fa-recycle"></i> Wood</a> <br>
         <a data-toggle="modal" data-target="#concreteModal"><i class="fas fa-recycle"></i> Concrete</a> <br>
         <a data-toggle="modal" data-target="#drywallModal"><i class="fas fa-recycle"></i> Drywall</a><br>
-         <a data-toggle="modal" data-target="#asphalteModal"><i class="fas fa-recycle"></i> Asphalt</a> <br>
         </div>
         <div class="col-sm">
             <a data-toggle="modal" data-target="#metalModal"><i class="fas fa-recycle"></i> Metal</a> <br>
@@ -66,6 +65,71 @@ Click on any of the materials below to learn how we recycle them
                 </p>
                 <p>
                     Fun Fact: Our Mount Vernon, WA facility is built on base from our own concrete recycling operations.
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- #drywallModal -->
+
+<div class="modal fade" id="drywallModal" tabindex="-1" role="dialog" aria-labelledby="drywallModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="drywallModalLabel">Drywall Products </h5>
+                <button type="button" class="close" data-dismiss="modal" arial-label="Close">
+                    <span aria-hidden=true">&times;</span>
+                </button>
+            </div>
+                <div class="modal-body">
+                <p>
+                    Our drywall comes in mostly from demo contractors or building contractors. The core component of drywall is gypsum which can be recycled into a new drywall.
+                </p>
+                <p>
+                    Fun Fact: Lautenbach Recycling started by recycling drywall into dairy bedding. We've since moved on to recycling drywall for gypsum due to market conditions, however, after a trial we have begun recycling drywall into dair bedding once again!
+                </p>
+                </div>
+        </div>
+    </div>
+</div> 
+
+<!-- #metalModal -->
+<div class="modal fade" id="metalModal" tabindex="-1" role="dialog" aria-labelledby="metalModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="metalModalLabel">Metal Products </h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </buitton>
+            </div>
+            <div class="modal-body">
+                <p>
+                    We take in metal from homeowners, local manufacturing, refrigeration companies and more. We also take in appliances. We then haul the scrap metal to ___________, a metal recycler, where it is metled down for new metal products
+                </p>
+                <p>
+                    Fun Fact: Janicki Industires sends u s metal forms for recycling as big as 50' long by 12' wide!
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- #mixedModal -->
+<div class="modal fade" id="mixedModal" tabindex="-1" role="dialog" aria-labelledby="mixedModelLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="mixedModalLabel">Mixed Debris </h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <p>
+                    Unlike some other facilities, we don't require any pre-sorting to recycle with us!
+                    You can bring in a load of mixed materials, or mix materials together in one of our drop boxes.
+                </p>
             </div>
         </div>
     </div>
