@@ -5,12 +5,19 @@ subtitle: "Trusted. Efficient. Green."
 description: "This is meta description"
 draft: false
 ---
-
 ## Sustainable residential & commercial demolition
 
 Let our expert demolition crew handle your next project. We'll make sure sure the job is done to your exact specification, and you'll get to help the environment by choosing Lautenbach Recycling to recycle the materials from your demolition.
 
 We think our demolition work speaks for itself. Take a look!
+
+<div class="d-flex justify-content-center">
+    <div class="row justify-content-center">
+        <div class="col justify-content-center">
+            <button class="btn btn-primary">Get a Quote</button>
+        </div>
+    </div>
+</div>
 
 ## Our Work
 

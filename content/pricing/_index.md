@@ -17,8 +17,8 @@ basic:
   - "Holds approximately 4 tons, depending on material"
   button:
     enable : true
-    label : "Order Now"
-    link : "#"
+    label : "Get a Quote"
+    link : "pricing/order"
     
 professional:
   name : "22' Box <br> Our Most Popular"
@@ -33,8 +33,8 @@ professional:
   - "Holds approximately 8 to 10 tons, depending on material"
   button:
     enable : true
-    label : "Order Now"
-    link : "#"
+    label : "Get a Quote"
+    link : "pricing/order"
     
 business:
   name : "16' Box"
@@ -47,11 +47,11 @@ business:
   - "Multi-family sites"
   - "Small commercial construction"
   - "Industrial and commercial with limited space"
-  - "Holds approximately 4 to 6 tons (dependong on material)"
+  - "Holds approximately 4 to 6 tons (depending on material)"
   button:
     enable : true
-    label : "Order Now"
-    link : "#"
+    label : "Get a Quote"
+    link : "pricing/order"
 
 call_to_action:
   enable : true
