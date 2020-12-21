@@ -18,7 +18,7 @@ Since then, Lautenbach Recycling has grown to over 50 employees operating 13 rol
 
 We serve contractors, businesses and the general public all throughout the I-5 cooridor with a reputation for outstanding service at affordable rates.
 
-## We are an organization build a culture of
+## We are an organization building a culture of
 
 <div class="container">
     <div class="row">
