@@ -2,7 +2,7 @@
 title: "Drop Boxes"
 subtitle: "Clean, efficient debris recycling"
 # meta description
-description: "This is meta description"
+description: "Lautenbach Recycling offers drop boxes for any project for clean, efficient debris recycling"
 draft: false
 
 basic:

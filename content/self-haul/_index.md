@@ -3,7 +3,7 @@ title: "Self-Haul Recycling"
 subtitle: "Help us keep waste out of our landfills"
 image: "images/503.jpg"
 # meta description
-description: "This is meta description"
+description: "Lautenbach Recycling offers fast, easy self-service recycling."
 draft: false
 ---
 

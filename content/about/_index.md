@@ -2,7 +2,7 @@
 title: "About Us"
 subtitle: "A family-owned business with a mission"
 # meta description
-description: "This is meta description"
+description: "About or company"
 draft: false
 ---
 
