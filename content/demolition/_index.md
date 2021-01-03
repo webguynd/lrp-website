@@ -2,7 +2,7 @@
 title: "Sustainable Demolition"
 subtitle: "Trusted. Efficient. Green."
 # meta description
-description: "This is meta description"
+description: "Sustainable demolition services for everyone"
 draft: false
 ---
 ## Sustainable residential & commercial demolition
