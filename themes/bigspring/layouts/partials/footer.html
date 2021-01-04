@@ -58,3 +58,6 @@
 {{ "<!-- Main Script -->" | safeHTML }}
 {{ $script := resources.Get "js/script.js" | minify}}
 <script src="{{ $script.Permalink }}"></script>
+{{ range .Params.js }}
+<script src="/js/{{ . }}.js"></script>
+{{ end }}

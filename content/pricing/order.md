@@ -18,10 +18,10 @@ draft: false
           <input type="tel" class="form-control mb-3" id="phoneNumber" name="phoneNumber" placeholder="Phone Number">
         <h2>Project Information</h2>
           <input type="text" class="form-control mb-3" id="siteAddress" name="siteAddress" placeholder="Job Site Street Address">
-          <input type="text" class="form-control mb-3" id="siteCity" name="siteCity" placeholder="Job Site City">
+          <input type="text" class="form-control mb-3" id="siteCity" name="siteCity" placeholder="Job Site Zip">
         <h2>Additional Notes</h2>
             <textarea name="message" id="message" class="form-control mb-3" placeholder="Additional Notes"></textarea>
-            <button type="submit" value="send" class="btn btn-primary">Send Now</button>
+            <button type="submit" value="send" class="btn btn-primary">Submit</button>
         </form>
       </div>
       <div class="col-lg-5 content">

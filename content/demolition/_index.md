@@ -14,7 +14,7 @@ We think our demolition work speaks for itself. Take a look!
 <div class="d-flex justify-content-center">
     <div class="row justify-content-center">
         <div class="col justify-content-center">
-            <button class="btn btn-primary">Get a Quote</button>
+            <a href="demoquote" class="btn btn-primary text-white">Get a Quote</a>
         </div>
     </div>
 </div>
