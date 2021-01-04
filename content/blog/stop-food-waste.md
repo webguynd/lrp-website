@@ -23,7 +23,9 @@ In the United States alone, 80 billions punds of food is thrown away every year.
                 This comes out to 219 pounds of food waste per person, per year and accounts for roughly 40% of the entire United States food supply. 
             </p>
             <p>
-                Most of this waste is sent to landfills, and is the single largest waste material taking up space in our landfills. <br>
+                Most of this waste is sent to landfills, and is the single largest waste material taking up space in our landfills.
+            </p>
+            <p>
                 Fun Fact: Food waste makes up about 22% of municipal solid waste. That's a lot!
             </p>
         </div>
