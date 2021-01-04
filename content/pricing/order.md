@@ -28,6 +28,7 @@ draft: false
         <h2>Request a box</h2>
         <p>Pleas complete this form to request a drop box for your project. Please include as many details as possible, including the box size you need in the "Additional Notes" section.</p>
         <p>A member of our customer service team will be in contact with you within 24 hours to complete your order.</p>
+        <img class="img-fluid" src="../../images/box-request.svg">
       </div>
     </div>
   </div>

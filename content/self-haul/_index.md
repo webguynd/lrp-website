@@ -183,9 +183,17 @@ Click on any of the materials below to learn how we recycle them
         </div>
     </div>
 </div>
-            
 
-
-## The most cost effective way to protect the environment
-
-By hauling your debris and disposing it with us, you can save time and money you'd usually spend arranging for pick-up and hauling. It's a fast and easy process that will help keep your project on-time, on budget and environmentally friendly. 
+<div class="container">
+    <div class="row">
+        <div class="col-lg-6">
+            <h2>The most cost effective way to protect the environment</h2>
+            <p>
+                By hauling your debris and recycling it with us, you can save time and moeny you'd usually spend arranging for pick-up and hauling. It's a fast and easy process that will help keep your projects on-time, on budget and environmentally friendly.
+            </p>
+        </div>
+        <div class="col-lg-6">
+            <img class="img-fluid" src="../images/protect-nature.svg">
+        </div>
+    </div>
+</div>

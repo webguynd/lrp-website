@@ -14,7 +14,7 @@ draft: false
         <div class="col-md-6 d-flex align-items-stretch">
             <div class="card">
                 <div class="card-header">
-                    From our 2020 ENSP survey
+                    From our 2020 ENPS survey
                 </div>
                 <div class="card-body">
                     <p class="card-text">
@@ -26,7 +26,7 @@ draft: false
         <div class="col-md-6 d-flex align-items-stretch">
             <div class="card">
                 <div class="card-header">
-                    From our 2020 ENSP survey
+                    From our 2020 ENPS survey
                 </div>
                 <div class="card-body">
                     <p class="card-text">

@@ -1,5 +1,5 @@
 ---
-title: "Stop Food Waste"
+title: "Addressing the food waste crsis"
 date: 2020-12-07T10:07:21+06:00
 # post image
 image: "images/blog/foodwaste-cover.png"
@@ -15,15 +15,22 @@ draft: false
 
 In the United States alone, 80 billions punds of food is thrown away every year. That's the equivalent of about 418 Seattle Spaceneedles!
 
-### So exactly how much food do we waste?
-
-America is the global leader in food waste. We discard about 40 million tons of food each year equating to approximately $161 billion.
-This comes out to 219 pounds of food waste per person, per year and accounts for roughly 40% of the entire United States food supply. 
-
-Most of this waste is sent to landfills, and is the single largest waste material taking up space in our landfills. <br>
-Fun Fact: Food waste makes up about 22% of municipal solid waste. That's a lot!
-
-![Image of full rubbish bin with food wrappers](../../images/food-waste/full-wastebin.jpg)
+<div class="row">
+        <div class="col-lg-6">
+            <h3>So exactly how much food do we waste?</h3>
+            <p>
+                America is the global leader in food waste. We discard about 40 million tons of food each year equating to approximately $161 billion.
+                This comes out to 219 pounds of food waste per person, per year and accounts for roughly 40% of the entire United States food supply. 
+            </p>
+            <p>
+                Most of this waste is sent to landfills, and is the single largest waste material taking up space in our landfills. <br>
+                Fun Fact: Food waste makes up about 22% of municipal solid waste. That's a lot!
+            </p>
+        </div>
+        <div class="col-lg-6">
+            <img class="img-fluid" src="../../images/food-waste/full-wastebin.jpg">
+        </div>
+</div>
 
 ### Why do we waste this much food?
 

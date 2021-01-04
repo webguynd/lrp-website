@@ -6,17 +6,37 @@ description: "About or company"
 draft: false
 ---
 
-## A simple, sustainable idea
+<div class="container">
+    <div class="row">
+        <div class="col-lg-6">
+            <h2>A simple, sustainable idea</h2>
+            <p>
+                Turning scrap drywall into bedding for dairy cattle - that's the idea that Troy Lautenbach, an unemployed, broke college graduate, had way back in April of 1991. With that idea, a company called T&T Recovery was born and we have been leading the way in recycling every since.
+            </p>
+        </div>
+        <div class="col-lg-6">
+            <img class="img-fluid" src="../images/new-idea.svg">
+        </div>
+    </div>
+</div>
 
-Turning scrap drywall into bedding for dairy cattle - that's the idea that Troy Lautenbach, an unemployed, broke college graduate, had way back in April of 1991. With that idea, a company called T&T Recovery was born and we have been leading the way in recycling every since.
-
-## A family-owned company
-
-Eight years later, in 1999, it was obvious that larger equipment and better trucks were needed. Along with his brother, Torrey, Troy started Lauts Inc. and began hauling commingled construction debris. Their mission to improve recycling and sustainability as well underway!
+<div class="container">
+    <div class="row">
+        <div class="col-lg-6" style="margin: auto 0;">
+            <img class="img-fluid" src="../images/family-owned.svg">
+        </div>
+        <div class="col-lg-6">
+            <h2>A family-owned company</h2>
+            <p>
+                Eight years later, in 1999, it was obvious that larger equipment and better trucks were needed. Along with his brother, Torrey, Troy started Lauts Inc. and began hauling commingled construction debris. Their mission to improve recycling and sustainability as well underway!
 
 Since then, Lautenbach Recycling has grown to over 50 employees operating 13 roll-off trucks, five live floor trailers, four excavators, and a large fleet of other vehicles and supporting equipment including over 250 roll-off boxes.
 
 We serve contractors, businesses and the general public all throughout the I-5 cooridor with a reputation for outstanding service at affordable rates.
+        </p>
+        </div>
+    </div>
+</div>
 
 ## We are an organization building a culture of
 
