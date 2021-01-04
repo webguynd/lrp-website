@@ -16,19 +16,19 @@ feature:
     # feature item loop
     - name : "Sustainable Demolition"
       icon : "ti-hummer"
-      content : "Let our expert demolition team take care of your next demolition project. Save money and go green!"
+      content : "Let our expert demolition team take care of your next project. Save money and go green!"
       link : "demolition"
       
     # feature item loop
     - name : "Self-Haul Recycling"
       icon : "fas fa-recycle"
-      content : "Our state of the art recycling facility is open to the public, loads of any size and no presorting required."
+      content : "Our state of the art recycling facility is open to everyone, loads of any size and no presorting required."
       link : "self-haul"
       
     # feature item loop
     - name : "Drop Boxes"
       icon : "fas fa-parachute-box"
-      content : "Let us drop off a container at your location and we'll haul it back when it's full."
+      content : "Let us drop off a container at your location and we'll haul it back when it's full. We can even backhaul materials to you!"
       link : "pricing"
       
     # feature item loop
@@ -40,12 +40,12 @@ feature:
     # feature item loop
     - name : "Organic & Food Recycling"
       icon : "fas fa-shopping-basket"
-      content : "We've partnered with Skagit Soils Inc. to help lead the food waste revolution. "
+      content : "We're passionate about keeping organics out of our landfills and waste water systems. Our facility is equipped to handle high-liquid, low-BOD materials."
       
     # feature item loop
-    - name : "24 hour service"
-      icon : "ti-alarm-clock"
-      content : "DUMMY CONTENT - REPLACE WITH ACTUAL CONTENT BEFORE DEPLOYING"
+    - name : "Community Minded"
+      icon : "far fa-smile"
+      content : "We are committed to ushering in a more equitable, and sustainable future for our community."
       
 
 
@@ -69,7 +69,7 @@ service:
         link : "https://www.recyclingcertification.org/"
         
     # service item loop
-    - title : "Going green doesn't have to be complicated"
+    - title : "Sustainability made easy"
       images:
       - "images/plant-hand.svg"
       content : "Since 1991, the local family team at Lautenbach Recycling has been helping drive sustainability in our local community with great service, quality and thoroughness."
