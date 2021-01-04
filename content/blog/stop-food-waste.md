@@ -2,7 +2,7 @@
 title: "Stop Food Waste"
 date: 2020-12-07T10:07:21+06:00
 # post image
-image: "images/food-waste/info-1.png"
+image: "images/blog/foodwaste-cover.png"
 # post type (regular/featured)
 type: "featured"
 # meta description
