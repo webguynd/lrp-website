@@ -29,7 +29,7 @@ feature:
     - name : "Drop Boxes"
       icon : "fas fa-parachute-box"
       content : "Let us drop off a container at your location and we'll haul it back when it's full. We can even backhaul materials to you!"
-      link : "pricing"
+      link : "drop-boxes"
       
     # feature item loop
     - name : "Transportation"

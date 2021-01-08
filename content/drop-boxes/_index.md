@@ -18,7 +18,7 @@ basic:
   button:
     enable : true
     label : "Get a Quote"
-    link : "pricing/order"
+    link : "drop-boxes/order"
     
 professional:
   name : "22' Box <br> Our Most Popular"
@@ -34,7 +34,7 @@ professional:
   button:
     enable : true
     label : "Get a Quote"
-    link : "pricing/order"
+    link : "drop-boxes/order"
     
 business:
   name : "16' Box"
@@ -51,7 +51,7 @@ business:
   button:
     enable : true
     label : "Get a Quote"
-    link : "pricing/order"
+    link : "drop-boxes/order"
 
 call_to_action:
   enable : true
