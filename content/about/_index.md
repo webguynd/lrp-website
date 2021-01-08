@@ -8,13 +8,13 @@ draft: false
 
 <div class="container">
     <div class="row">
-        <div class="col-lg-6">
+        <div class="col-sm-6">
             <h2>A simple, sustainable idea</h2>
             <p>
                 Turning scrap drywall into bedding for dairy cattle - that's the idea that Troy Lautenbach, an unemployed, broke college graduate, had way back in April of 1991. With that idea, a company called T&T Recovery was born and we have been leading the way in recycling every since.
             </p>
         </div>
-        <div class="col-lg-6">
+        <div class="col-sm-6">
             <img class="img-fluid" src="../images/new-idea.svg">
         </div>
     </div>
@@ -22,10 +22,10 @@ draft: false
 
 <div class="container">
     <div class="row">
-        <div class="col-lg-6" style="margin: auto 0;">
+        <div class="col-sm-6" style="margin: auto 0;">
             <img class="img-fluid" src="../images/family-owned.svg">
         </div>
-        <div class="col-lg-6">
+        <div class="col-sm-6">
             <h2>A family-owned company</h2>
             <p>
                 Eight years later, in 1999, it was obvious that larger equipment and better trucks were needed. Along with his brother, Torrey, Troy started Lauts Inc. and began hauling commingled construction debris. Their mission to improve recycling and sustainability as well underway!

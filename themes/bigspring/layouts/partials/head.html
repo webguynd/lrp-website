@@ -2,6 +2,9 @@
   <meta charset="utf-8">
   <title>{{ .Title }}</title>
 
+  <!-- DO NOT INDEX TEST VERSION OF WEBSITE REMOVE BEFORE PUSHING TO PROD-->
+  <meta name="robots" content="noindex,follow"/>
+
   {{ "<!-- mobile responsive meta -->" | safeHTML }}
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
   <meta name="description" content="{{ with .Params.Description }}{{ . }}{{ else }}{{ with site.Params.description }}{{ . }}{{ end }}{{ end }}">
