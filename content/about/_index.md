@@ -2,7 +2,7 @@
 title: "About Us"
 subtitle: "A family-owned business with a mission"
 # meta description
-description: "About or company"
+description: "Lautenbach Recycling was started in 1991. We've been supporing sustainablility in our community for over 30 years."
 draft: false
 ---
 

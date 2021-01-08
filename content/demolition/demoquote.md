@@ -2,7 +2,7 @@
 title: "Let us demolish your expectations"
 subtitle: "Get a quote for our easy, sustainable demolition service"
 # meta description
-description: "This is meta description"
+description: "Sustainable demolition made easy by Lautenbach Recycling"
 draft: false
 ---
 
