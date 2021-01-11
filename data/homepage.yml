@@ -41,7 +41,8 @@ feature:
     - name : "Organic & Food Recycling"
       icon : "fas fa-shopping-basket"
       content : "We're passionate about keeping organics out of our landfills and waste water systems. Our facility is equipped to handle high-liquid, low-BOD materials."
-      
+      link : "organics"
+
     # feature item loop
     - name : "Community Minded"
       icon : "far fa-smile"
