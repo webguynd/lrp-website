@@ -18,8 +18,10 @@ Let us come to you!
 
 Our experts will conduct an audit of your current waste system and help you implement sustainable solutions for your waste.
 
-## How organic waste can help power homes
+## See where your organic materials are recycled
 
 Check out how our partners, Vander Haak Dairy, uses organic waste for sustainable farming.
+
+{{< youtube bsEHGVkQgqA >}}
 
 
