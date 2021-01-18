@@ -2,7 +2,7 @@
 title: "Privacy Policy"
 subtitle: ""
 # meta description
-description: "This is meta description"
+description: "Lautenbach Recycling Privacy Policy"
 draft: false
 ---
 

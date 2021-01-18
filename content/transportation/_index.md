@@ -3,7 +3,7 @@ title: "Waste Hauling"
 subtitle: "Economical transportation services you can trust"
 image: "images/transportation-cover.jpg"
 # meta description
-description: "This is meta description"
+description: "Lautenbach Recycling - economical transportation services you can trust"
 draft: false
 ---
 

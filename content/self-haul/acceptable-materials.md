@@ -2,7 +2,7 @@
 title: "Acceptable Materials List"
 subtitle: "If you have questions concerning this list, please [give us a call](../../contact)"
 # meta description
-description: "This is meta description"
+description: "Lautenbach Recycling - Acceptable Materials List"
 draft: false
 ---
 

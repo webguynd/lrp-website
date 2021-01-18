@@ -3,7 +3,7 @@ title: "COVID-19 Awareness"
 subtitle: "We are committed to doing our part to protect our employees, customers and the general public"
 image: "images/covid-19.png"
 # meta description
-description: "This is meta description"
+description: "Lautenbach Recycling is committed to protecting our employees, customers and community"
 draft: false
 ---
 

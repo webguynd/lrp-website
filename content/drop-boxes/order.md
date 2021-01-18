@@ -2,7 +2,7 @@
 title: "Request a Box"
 subtitle: ""
 # meta description
-description: "This is meta description"
+description: "Request a drop box for your next project from Lautenbach Recycling"
 draft: false
 ---
 

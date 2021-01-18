@@ -2,7 +2,7 @@
 title: "Contact Us"
 subtitle: ""
 # meta description
-description: "This is meta description"
+description: "Get in touch with Lautenbach Recycling"
 draft: false
 ---
 
