@@ -14,6 +14,12 @@ We've invested in special roll-off boxes with lids and sealed doors to better ha
 
 ## Go Green and Save
 
-Achieve your zero-waste goals and let us take care of your waste systems.
+Let us come to you!
+
+Our experts will conduct an audit of your current waste system and help you implement sustainable solutions for your waste.
+
+## How organic waste can help power homes
+
+Check out how our partners, Vander Haak Dairy, uses organic waste for sustainable farming.
 
 
