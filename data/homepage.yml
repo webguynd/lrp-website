@@ -46,7 +46,7 @@ feature:
     # feature item loop
     - name : "Community Minded"
       icon : "far fa-smile"
-      content : "We are committed to ushering in a more equitable, and sustainable future for our community."
+      content : "We are committed to ushering in a more equitable and sustainable future for our community."
       
 
 
@@ -73,7 +73,7 @@ service:
     - title : "Sustainability made easy"
       images:
       - "images/plant-hand.svg"
-      content : "Since 1991, the local family team at Lautenbach Recycling has been helping drive sustainability in our local community with great service, quality and thoroughness."
+      content : "Since 1991, the local family team at Lautenbach Recycling has been helping drive sustainability in our local community with great service, quality, and thoroughness."
       button:
         enable : true
         label : "Meet our team"
@@ -93,7 +93,7 @@ service:
     - title : "Keeping organic waste out of our landfills and our water supplies"
       images:
       - "images/farmer-tree2.png"
-      content : "We have special roll-off boxes designed for high-liquied, low-BOD materials for safe, secure containment. We can come to you! We'll do an audit of your waste system and help you implement sustainable solutions and save money."
+      content : "We have special roll-off boxes designed for high-liquid, low-BOD materials for safe, secure containment. We can come to you! We'll do an audit of your waste system and help you implement sustainable solutions and save money."
       button:
         enable : true
         label : "Learn more & Find out where the organics go"

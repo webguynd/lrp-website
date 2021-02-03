@@ -28,7 +28,7 @@ draft: false
         <div class="col-sm-6">
             <h2>A family-owned company</h2>
             <p>
-                Eight years later, in 1999, it was obvious that larger equipment and better trucks were needed. Along with his brother, Torrey, Troy started Lauts Inc. and began hauling commingled construction debris. Their mission to improve recycling and sustainability as well underway!
+                Eight years later, in 1999, it was obvious that larger equipment and better trucks were needed. Along with his brother, Torrey, Troy started Lauts, Inc. and began hauling commingled construction debris. Their mission to improve recycling and sustainability was well underway!
 
 Since then, Lautenbach Recycling has grown to over 50 employees operating 13 roll-off trucks, five live floor trailers, four excavators, and a large fleet of other vehicles and supporting equipment including over 250 roll-off boxes.
 
@@ -45,7 +45,7 @@ We serve contractors, businesses and the general public all throughout the I-5 c
         <div class="col-sm">
             <h3>Safety</h3>
             <p>
-                We are committed to a safety first mentality through education, equipment, and personnel. We all prioritize the health and well-being of our co-workers, customers, and business partners.
+                We are committed to a safety-first mentality through education, equipment, and personnel. We all prioritize the health and well-being of our co-workers, customers, and business partners.
             </p>
             <h3>Quality</h3>
             <p>

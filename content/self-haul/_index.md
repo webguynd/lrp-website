@@ -86,7 +86,7 @@ Click on any of the materials below to learn how we recycle them
                     Our drywall comes in mostly from demo contractors or building contractors. The core component of drywall is gypsum which can be recycled into a new drywall.
                 </p>
                 <p>
-                    Fun Fact: Lautenbach Recycling started by recycling drywall into dairy bedding. We've since moved on to recycling drywall for gypsum due to market conditions, however, after a trial we have begun recycling drywall into dair bedding once again!
+                    Fun Fact: Lautenbach Recycling started by recycling drywall into dairy bedding. We've since moved on to recycling drywall for gypsum due to market conditions, however, after a trial we have begun recycling drywall into dairy bedding once again!
                 </p>
                 </div>
         </div>
@@ -105,7 +105,7 @@ Click on any of the materials below to learn how we recycle them
             </div>
             <div class="modal-body">
                 <p>
-                    We take in metal from homeowners, local manufacturing, refrigeration companies and more. We also take in appliances. We then haul the scrap metal to ___________, a metal recycler, where it is metled down for new metal products
+                    We take in metal from homeowners, local manufacturing, refrigeration companies and more. We also take in appliances. We then haul the scrap metal to a metal recycler, where it is metled down for new metal products
                 </p>
                 <p>
                     Fun Fact: Janicki Industires sends u s metal forms for recycling as big as 50' long by 12' wide!
