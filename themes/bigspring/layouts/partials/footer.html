@@ -61,6 +61,12 @@
                 $nav.toggleClass("bg-light", $(this).scrollTop() > $nav.height());
             });
         });
+
+</script>
+<script src="/js/animations.js"></script>
+<script src="/js/sal.js"></script>
+<script>
+  sal();
 </script>
 {{ "<!-- Main Script -->" | safeHTML }}
 {{ $script := resources.Get "js/script.js" | minify}}

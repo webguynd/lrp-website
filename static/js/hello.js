@@ -1,1 +1,1 @@
-console.log('Script loaded');
+window.alert('script loaded!')

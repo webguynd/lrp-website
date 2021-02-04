@@ -15,7 +15,7 @@ draft: false
             </p>
         </div>
         <div class="col-sm-6">
-            <img class="img-fluid" src="../images/new-idea.svg">
+            <img class="img-fluid" data-sal="fade" src="../images/new-idea.svg">
         </div>
     </div>
 </div>
@@ -23,7 +23,7 @@ draft: false
 <div class="container">
     <div class="row">
         <div class="col-sm-6" style="margin: auto 0;">
-            <img class="img-fluid" src="../images/family-owned.svg">
+            <img class="img-fluid" data-sal="fade" src="../images/family-owned.svg">
         </div>
         <div class="col-sm-6">
             <h2>A family-owned company</h2>
