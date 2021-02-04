@@ -7,16 +7,24 @@ description: "Lautenbach Recycling - economical transportation services you can 
 draft: false
 ---
 
-## Experienced drivers
-
-We have a large workforce of skilled drivers and a fleet of
-
-* Roll-off trucks
-* Live floor trailers
-* Excavators
-* Special sealed containers
-
-that allows us to provide safe, efficient waste hauling services. 
+<div class="container">
+    <div class="row">
+        <div class="col-6">
+            <h2>Experienced drivers</h2>
+            <p>We have a large workforce of skilled drivers and a fleet of: </p>
+            <ul>
+                <li>Roll-off trucks</li>
+                <li>Live floor trailers</li>
+                <li>Excavators</li>
+                <li>Special sealed containers</li>
+            </ul>
+            <p>that allows us to provide safe, efficient waste hauling services.
+        </div>
+        <div class="col-6">
+            <img class="img-fluid" src="../images/transportation-cover.jpg">
+        </div>
+    </div>
+</div>
 
 ## Family-owned, local service
 

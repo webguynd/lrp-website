@@ -1,10 +1,10 @@
 
 
 {{ "<!-- navigation -->" | safeHTML }}
-<header class="navigation">
-  <div class="container">
+ <header class="navigation"> 
+  <div class="container-fluid fixed-top" id="top-nav-container">
     <!-- navbar -->
-    <nav class="navbar navbar-expand-lg navbar-light bg-transparent">
+    <nav class="navbar navbar-expand-lg navbar-light">
       <a class="navbar-brand" href="{{ site.BaseURL }}">
         {{ with site.Params.logo}}
         <img width="{{site.Params.logo_width}}" class="img-fluid" src="{{ . | absURL }}" alt="{{ site.Title }}">
@@ -44,7 +44,7 @@
       </div>
     </nav>
   </div>
-  <div class="container align-items-center text-center">
+  <div class="container align-items-center nav-offest text-center">
     <div class="row align-items-center">
       <div class="col">
         <p class="text-danger"><a href="/covid-19" class="text-danger">CLICK HERE FOR IMPORTANT COVID-19 RELATED INFORMATION AND ANNOUNCEMENTS</a></p>
