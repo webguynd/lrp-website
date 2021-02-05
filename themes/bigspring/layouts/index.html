@@ -25,11 +25,11 @@
 <!-- feature -->
 {{ if site.Data.homepage.feature.enable }}
 {{ with site.Data.homepage.feature }}
-<section class="section bg-light">
+<section class="section bg-light parallax"> 
   <div class="container">
     <div class="row justify-content-center">
       <div class="col-12 text-center">
-        <h2 class="section-title">{{ .title | markdownify }}</h2>
+        <h2 class="section-title text-white">{{ .title | markdownify }}</h2>
       </div>
       {{ range .feature_item }}
       <div class="col-md-4 col-sm-6 mb-4">
