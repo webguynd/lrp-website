@@ -38,7 +38,7 @@ professional:
     
 business:
   name : "16' Box"
-  image : "images/dbox.jpg"
+  image : "images/drop-box-16.jpeg"
 #  price: "$49"
 #  price_per : "month"
   info : "16' L x 8' W x 4'-6' H <br> 20-30 yards"
@@ -67,5 +67,15 @@ call_to_action:
     enable : true
     label: "Free Trial"
     link: "#"
+
+special:
+  enable : true
+  title : "Specialty boxes available"
+  image : "images/ideation.svg"
+  content: "We have specialty boxes available. Call us today"
+  button:
+    enable: true
+    label: "Request a box"
+    link: "contact"
 ---
 

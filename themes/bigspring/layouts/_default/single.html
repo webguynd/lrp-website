@@ -7,8 +7,8 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-8 mx-auto">
-        <img src="{{ .Params.image | absURL }}" alt="{{ .Title }}" class="img-fluid w-100 rounded mb-4">
-        <h2 class="mb-4">{{ .Title }}</h2>
+        <img src="{{ .Params.image | absURL }}" alt="{{ .Title }}" class="img-fluid w-100 rounded mb-4" data-sal="fade" data-sal-duration="1500">
+        <h2 class="mb-4" >{{ .Title }}</h2>
         <div class="content">{{.Content}}</div>
         
         <!-- comments -->

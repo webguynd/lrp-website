@@ -82,7 +82,7 @@ We serve contractors, businesses and the general public all throughout the I-5 c
 
 ## Our associations and memberships
 
-<div class="container">
+<div class="container" data-sal="fade" data-sal-duration="1500">
     <div class="row">
         <div class="col-sm">
             <!-- Images -->
