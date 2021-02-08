@@ -65,9 +65,10 @@ draft: false
         </div>
     </div>
 </div>
-
+<!--
 ## Explore our culture and how we work
-
+-->
+<!--
 <div class="container">
     <div class="row">
         <div class="col-md-6">
@@ -91,6 +92,7 @@ draft: false
         </div>
     </div>
 </div>
+-->
 
 ## Apply Today
 
