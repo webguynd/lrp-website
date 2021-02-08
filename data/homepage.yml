@@ -55,15 +55,13 @@ service:
   enable : true
   service_item:
     # service item loop
-    - title : "As an industry leader, we are one of only two RCI certified construction and demolition recyclers in the northwest"
+    - title : "Safe, Certified Recycling"
       images:
       - "images/tandtaward.jpg"
       - "images/rci-logo.png"
    
-      content : "Certification is based on our recycle rate. Because of this, you can trust that we exceed the recycling rates required for LEED projects.
-      In addition, we are also the 2019 Gold Award recipient for the Construction & Demolition World Safety Awards, and we were awarded Silver in 2018. In 2005, we were awarded WSRA's Recycler of the Year.
-      <br><br>
-       We are also proud members of the CDRA, WSRA, Sustainable Connections, SICBA, EDASC and Food Northwest"
+      content : "Transparent and certified recycling rates that you can trust. We'll help you earn credits towards LEED certification.<br><br>
+      And, as a three time CDRA Best Practices in Safety award winner, we'll take care of your waste safely during the entire recycling process"
       button:
         enable : true
         label : "Learn more RCI Certification"
