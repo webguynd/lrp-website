@@ -1,7 +1,6 @@
 ---
 title: "Waste Hauling"
 subtitle: "Economical transportation services you can trust"
-image: "images/transportation-cover.jpg"
 # meta description
 description: "Lautenbach Recycling - economical transportation services you can trust"
 draft: false
@@ -26,9 +25,20 @@ draft: false
     </div>
 </div>
 
-## Family-owned, local service
+<div class="container">
+    <div class="row">
+        <div class="col-6">
+            <img class="img-fluid" src="../images/transportation-cover.jpg">
+        </div>
+        <div class="col-6">
+            <h2>Family-owned, local service</h2>
+            <p>
+                We are up to any transportation challenge - big or small. Our customers range from major refineries to local dairy suppliers, with all of whom we work under the priority of providing safe, efficient and environmentally friendly transportation services at affordable rates.
+            </p>
+        </div>
+    </div>
+</div>
 
-We are up to any transportation challenge - big or small. Our customers range from major refineries to local dairy suppliers, with all of whom we work under the priority of providing safe, efficient and environmentally friendly transportation services at affordable rates.
 
 ## A reuptation for quality
 

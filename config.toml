@@ -89,7 +89,7 @@ parent = "services"
 weight = 3
 
 [[menu.main]]
-name = "Transportation"
+name = "Waste Hauling"
 url = "/transportation"
 parent = "services"
 weight = 4
@@ -133,7 +133,7 @@ name = "Demolition"
 URL = "demolition"
 
 [[menu.footer_middle]]
-name = "Transportation"
+name = "Waste Hauling"
 URL = "transportation"
 
 [[menu.footer_middle]]

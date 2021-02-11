@@ -32,7 +32,7 @@ feature:
       link : "drop-boxes"
       
     # feature item loop
-    - name : "Transportation"
+    - name : "Waste Hauling"
       icon : "fas fa-truck-loading"
       content : "With a large fleet, we're able to help you haul your waste materials to where they need to go quickly and safely. "
       link : "transportation"

@@ -1,8 +1,8 @@
-<section class="section pb-0">
+<section class="section pb-4 parallax">
   <div class="container text-center">
-    <h1 class="display-3" data-sal="fade" data-sal-duration="500">{{ .Title | markdownify }}</h1>
+    <h1 class="display-3 text-white" data-sal="fade" data-sal-duration="500">{{ .Title | markdownify }}</h1>
     {{ with .Params.subtitle }}
-    <p>{{ . | markdownify }}</p>
+    <p class="text-white">{{ . | markdownify }}</p>
     {{ end }}
     {{ with .Params.image }}
     <img class="img-fluid rounded mx-auto d-block" src="{{ . | absURL }}">
