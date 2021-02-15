@@ -28,7 +28,7 @@ draft: false
 <div class="container">
     <div class="row">
         <div class="col-6">
-            <img class="img-fluid" src="../images/transportation-cover.jpg">
+            <img class="img-fluid" src="../images/trucks/tankers-at-night.JPG">
         </div>
         <div class="col-6">
             <h2>Family-owned, local service</h2>
