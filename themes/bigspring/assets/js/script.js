@@ -20,7 +20,7 @@
 		slidesToScroll: 1,
 		autoplay: true,
 		dots: true,
-		arrows: true
+		arrows: false
 	});
 
 })(jQuery);
