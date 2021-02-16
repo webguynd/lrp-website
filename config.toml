@@ -190,11 +190,6 @@ icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
 link = "https://facebook.com/LautenbachRecycling"
 
 [[params.social]]
-title = "twitter"
-icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
 title = "linkedin"
 icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://www.linkedin.com/company/lautenbach-recycling"

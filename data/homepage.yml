@@ -1,12 +1,16 @@
 ####################### Banner #########################
 banner:
-  title : "More food reaches our landfills and combustion facilities than any other single material<sup style='font-size: 0.5em'>*EPA estimates in 2018</sup>"
-  image : "images/takeout-boxes.svg"
-  content : "20% of total U.S. emissions come from landfills. We are passionate about food waste recycling. Click below to learn more about how we are helping."
+  title : "Introducing the Tiger depack machine."
+  images:
+    - "images/food-waste/depack-with-box.jpg" 
+    - "images/food-waste/depack-sortline.jpg"
+    - "images/food-waste/depack-offloading.jpg"
+  content : "Recycle your food waste AND the packaging. No separating or sorting required."
   button:
     enable : true
-    label : "Get Involved"
+    label : "Learn more"
     link : "/blog/stop-food-waste"
+
 
 ##################### Feature ##########################
 feature:
@@ -73,7 +77,7 @@ service:
       - "images/plant-hand.svg"
       content : "Since 1991, the local family team at Lautenbach Recycling has been helping drive sustainability in our local community with great service, quality, and thoroughness."
       button:
-        enable : true
+        enable : false
         label : "Meet our team"
         link : "#"
         
@@ -91,11 +95,11 @@ service:
     - title : "Keeping organic waste out of our landfills and our water supplies"
       images:
       - "images/farmer-tree2.png"
-      content : "We have special roll-off boxes designed for high-liquid, low-BOD materials for safe, secure containment. We can come to you! We'll do an audit of your waste system and help you implement sustainable solutions and save money."
+      content : "We have special roll-off boxes designed for high-liquid materials to ensure safe, secure containment. We can come to you! We'll do an audit of your waste system and help you implement sustainable solutions and save money."
       button:
         enable : true
         label : "Learn more & Find out where the organics go"
-        link : "#"
+        link : "organics"
 
     - title : "See what our customers are saying about us"
       images:
@@ -105,7 +109,7 @@ service:
       button:
         enable : true
         label : "Follow us on social media"
-        link : "#"
+        link : "https://facebook.com/LautenbachRecycling"
         
 
 
@@ -113,7 +117,7 @@ service:
 screenshot:
   enable : true
   title : "Experience the best service with us"
-  image : "images/ss-3.jpg"
+  image : "images/trucks/troy-in-loader.jpg"
 
   
 

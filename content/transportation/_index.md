@@ -39,8 +39,17 @@ draft: false
     </div>
 </div>
 
-
-## A reuptation for quality
-
-Since 1991, we have been providing residential and commercial customers up and down the I-5 coordior with superior quality, friendly service and environmental efficiency. 
-We demand only the best, after all - we live and work in the community too!
+<div class="container">
+    <div class="row">
+        <div class="col-6">
+            <h2>A reputation for quality</h2>
+            <p>
+                Since 1991, we have been providing residential and commercial customers up and down the I-5 coordior with superior quality, friendly service and environmental efficiency. 
+                We demand only the best, after all - we live and work in the community too!
+            </p>
+        </div>
+        <div class="col-6">
+            <img class="img-fluid" src="../images/trucks/line-of-trucks.jpg">
+        </div>
+    </div>
+</div>
