@@ -8,7 +8,11 @@ draft: false
 ---
 
 ## Listen to what our employees have to say
-
+<div class="container">
+    <div class="row">
+        <img class="img-fluid" src="../images/backgrounds/lrp-staff.JPG" alt="image of Lautenbach Recycling employees in a conference room">
+    </div>
+</div>
 <div class="container">
     <div class="row">
         <div class="col-md-6 d-flex align-items-stretch">

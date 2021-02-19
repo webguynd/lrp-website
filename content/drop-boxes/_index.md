@@ -57,25 +57,28 @@ call_to_action:
   enable : true
   title : "Need something else?"
   image : "images/ideation.svg"
-  content : "We have flexible solutions available and we are great problem solvers. If you have unique requirements, get in touch with us - we'd love to work with you.
-  <br><br> Still not sure? Click on the Free Trial button below to see how you can trial our drop box service."
+  content : "We have additional boxes available including:
+  <ul>
+    <li>Lidded/covered boxes</li>
+    <li>Sealed containers for liquid waste</li>
+  </ul><br>
+  Still don't see what you need? Give us a call - we're creative problem solvers and love a good challenge."
   button:
     enable : true
     label : "Contact Us"
     link : "contact"
   button2:
-    enable : true
+    enable : false
     label: "Free Trial"
     link: "#"
 
 special:
-  enable : true
-  title : "Specialty boxes available"
+  enable : false
+  title : "Containers for every project"
   image : "images/ideation.svg"
-  content: "We have specialty boxes available. Call us today"
+  content: "Small or large, lidded or not, we have the container you need for your next project. "
   button:
     enable: true
     label: "Request a box"
     link: "contact"
 ---
-
