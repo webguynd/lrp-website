@@ -20,7 +20,7 @@ draft: false
             <p>that allows us to provide safe, efficient waste hauling services.
         </div>
         <div class="col-6">
-            <img class="img-fluid" src="../images/transportation-cover.jpg">
+            <img class="img-fluid" data-sal="fade" data-sal-duration="1500" src="../images/transportation-cover.jpg">
         </div>
     </div>
 </div>
@@ -28,7 +28,7 @@ draft: false
 <div class="container">
     <div class="row">
         <div class="col-6">
-            <img class="img-fluid" src="../images/trucks/tankers-at-night.JPG">
+            <img class="img-fluid" data-sal="fade" data-sal-duration="1500" src="../images/trucks/tankers-at-night.JPG">
         </div>
         <div class="col-6">
             <h2>Family-owned, local service</h2>
@@ -49,7 +49,7 @@ draft: false
             </p>
         </div>
         <div class="col-6">
-            <img class="img-fluid" src="../images/trucks/line-of-trucks.jpg">
+            <img class="img-fluid" data-sal="fade" dadta-sal-duration="1500" src="../images/trucks/line-of-trucks.jpg">
         </div>
     </div>
 </div>
