@@ -8,21 +8,21 @@ draft: false
 
 <div class="container">
     <div class="row">
-        <div class="col-md-6">
+        <div class="col-md-6 my-auto">
             <h2> Keeping organic waste out of the landfill</h2>
             <p>
                 Does your business deal with organic waste that you don't want ending up in a landfill or waste water system? We have special roll-off boxes with lids and sealed doors to haul your high-liquid waste for safe, secure containment.
             </p>
         </div>
         <div class="col-md-6">
-            <img class="img-fluid" alt="organic" src="">
+            <img class="img-fluid" alt="depackaging machine with recycling box" src="../images/food-waste/depack-with-box.jpg">
         </div>
     </div>
     <div class="row">
-        <div class="col-md-6">
-            <img class="img-fluid" alt="organic2" src="../images/food-waste/plastic-bales.jpg">
+        <div class="col-md-6 my-auto">
+            <img class="img-fluid" alt="recycled plastic bales" src="../images/food-waste/plastic-bales.jpg">
         </div>
-        <div class="col-md-6">
+        <div class="col-md-6 my-auto">
             <h2>Let the professionals come to you</h2>
             <p>
                 Our efficient, experienced staff will come to your location, perform an audit of your current waste system, and implement
@@ -41,21 +41,9 @@ draft: false
     </div>
 </div>
 
-## Organics & Food Waste Recycling
+## See how organic materials are recycled
 
-We're passionate about keeping organic waste streams out of our landfills and out of our water systems.
-
-We've invested in special roll-off boxes with lids and sealed doors to better haul high-liquid, low-BOD materials.
-
-## Go Green and Save
-
-Let us come to you!
-
-Our experts will conduct an audit of your current waste system and help you implement sustainable solutions for your waste.
-
-## See where your organic materials are recycled
-
-Check out how our partners, Vander Haak Dairy, uses organic waste for sustainable farming.
+Check out how our partner, Vander Haak Dairy, uses organic waste for sustainable farming.</p>
 
 {{< youtube bsEHGVkQgqA >}}
 
