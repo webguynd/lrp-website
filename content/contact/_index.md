@@ -13,6 +13,6 @@ We are the region's preferred sustainable waste experts. Whether you have LEED r
 * **Phone: 360 757 4000** 
 * **Mail: customerservice@lautenbachrecycling.com**
 * **Address: 13084 Ball Road, Mount Vernon, WA 98273**
-* **San Juan Transfer Station: address goes here**
-* **Skagit Soils: address goes here**
-* **Whatcom County: location goes here**
+* **San Juan Transfer Station: 212 Sutton Road, Friday Harbor, WA 98250**
+* **Skagit Soils: 13260 Ball Road, Mount Vernon, WA 98273**
+* **Whatcom County: Slater Road, Ferndale, WA 98248**

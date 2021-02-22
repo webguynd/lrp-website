@@ -3,7 +3,7 @@ title: "Introducing the Tiger depack machine"
 date: 2021-02-19T14:31:52-08:00
 draft: false
 type: regular
-# image:
+image: "images/food-waste/depack-offloading.jpg"
 # description:
 ---
 
