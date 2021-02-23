@@ -41,7 +41,7 @@ link = "plugins/slick/slick.min.js"
 
 [[menu.main]]
 name = "About"
-URL = "about"
+URL = "about-us"
 weight = 1
 
 [[menu.main]]
@@ -90,13 +90,13 @@ weight = 3
 
 [[menu.main]]
 name = "Waste Hauling"
-url = "/transportation"
+url = "/hauling"
 parent = "services"
 weight = 4
 
 [[menu.main]]
 name = "Organics Recycling"
-url = "/organics"
+url = "/organic-materials"
 parent = "services"
 weight = 5
 
@@ -108,7 +108,7 @@ weight = 6
 # footer menu left
 [[menu.footer_left]]
 name = "About Us"
-URL = "about"
+URL = "about-us"
 
 [[menu.footer_left]]
 name = "Contact Us"
@@ -134,11 +134,15 @@ URL = "demolition"
 
 [[menu.footer_middle]]
 name = "Waste Hauling"
-URL = "transportation"
+URL = "hauling"
 
 [[menu.footer_middle]]
 name = "Self-Haul"
 URL = "self-haul"
+
+[[menu.footer_middle]]
+name = "Oragnics Recycling"
+URL = "organic-materials"
 
 # footer menu right
 [[menu.footer_right]]
@@ -167,7 +171,7 @@ contact_form_action = "#" # contact form works with https://formspree.io
 footer_menu_left = "Company"
 footer_menu_middle = "Services"
 footer_menu_right = "Support"
-footer_content = "A family owned business with a mission, Lautenbach Recycling has been leading the way in sustainable waste since 1991. [Learn More](/about/)"
+footer_content = "A family owned business with a mission, Lautenbach Recycling has been leading the way in sustainable waste since 1991. [Learn More](/about-us/)"
 # copyright
 copyright = "Copyright 2020 Lautenbach Recycling <br> 13084 Ball Road, Mount Vernon, WA 98273"
 

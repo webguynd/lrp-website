@@ -39,18 +39,19 @@ feature:
     - name : "Waste Hauling"
       icon : "fas fa-truck-loading"
       content : "With a large fleet, we're able to help you haul your waste materials to where they need to go quickly and safely. "
-      link : "transportation"
+      link : "hauling"
       
     # feature item loop
     - name : "Organic & Food Recycling"
       icon : "fas fa-shopping-basket"
       content : "We're passionate about keeping organics out of our landfills and waste water systems. Our facility is equipped to handle high-liquid, low-BOD materials."
-      link : "organics"
+      link : "organic-materials"
 
     # feature item loop
     - name : "Community Minded"
       icon : "far fa-smile"
       content : "We are committed to ushering in a more equitable and sustainable future for our community."
+      link : "about"
       
 
 
@@ -99,7 +100,7 @@ service:
       button:
         enable : true
         label : "Learn more & Find out where the organics go"
-        link : "organics"
+        link : "organic-materials"
 
     - title : "See what our customers are saying about us"
       images:
