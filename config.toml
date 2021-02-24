@@ -151,7 +151,7 @@ URL = "privacy-policy"
 
 [[menu.footer_right]]
 name = "Make a Payment"
-URL = "#"
+URL = "pay"
 
 [[menu.footer_right]]
 name = "FAQ"
