@@ -106,7 +106,7 @@ service:
       images:
       - "images/jaycch.png"
       - "images/nl-logo.png"
-      content: "Don't just take our word for our level of service, see what our cusomers are saying about us."
+      content: "Don't just take our word for our level of service, see what our customers are saying about us."
       button:
         enable : true
         label : "Follow us on social media"
