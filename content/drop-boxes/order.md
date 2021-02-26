@@ -10,7 +10,7 @@ draft: false
   <div class="container">
     <div class="row">
       <div class="col-lg-7 mb-4 mb-lg-0">
-        <form name="contact" method="POST" data-netlify="true">
+        <form name="box-request" method="POST" data-netlify="true">
         <h2>Contact Information</h2>
           <input type="text" class="form-control mb-3" id="name" name="name" placeholder="Your Name">
           <input type="text" class="form-control mb-3" id="orgName" name="orgName" placeholder="Company Name">
