@@ -118,9 +118,9 @@ URL = "contact"
 name = "Careers"
 URL = "careers"
 
-[[menu.footer_left]]
-name = "Gallery"
-URL = "#"
+# [[menu.footer_left]]
+# name = "Gallery"
+# URL = "#"
 
 
 # footer menu middle
@@ -149,9 +149,9 @@ URL = "organic-materials"
 name = "Privacy Policy"
 URL = "privacy-policy"
 
-[[menu.footer_right]]
-name = "Make a Payment"
-URL = "pay"
+# [[menu.footer_right]]
+# name = "Make a Payment"
+# URL = "pay"
 
 [[menu.footer_right]]
 name = "FAQ"

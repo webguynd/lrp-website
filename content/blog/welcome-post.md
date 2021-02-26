@@ -2,7 +2,7 @@
 title: "Welcome"
 date: 2020-04-18T10:07:21+06:00
 # post image
-image: "images/blog/welcome-cover.png"
+image: "images/blog/dronebg.jpg"
 # post type (regular/featured)
 type: "regular"
 # meta description
