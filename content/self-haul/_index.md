@@ -107,9 +107,6 @@ Click on any of the materials below to learn how we recycle them
                 <p>
                     We take in metal from homeowners, local manufacturing, refrigeration companies and more. We also take in appliances. We then haul the scrap metal to a metal recycler, where it is metled down for new metal products
                 </p>
-                <p>
-                    Fun Fact: Janicki Industires sends u s metal forms for recycling as big as 50' long by 12' wide!
-                </p>
             </div>
         </div>
     </div>
