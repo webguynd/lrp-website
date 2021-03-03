@@ -22,7 +22,7 @@ Visit our partner, [Skagit Soils](https://skagitsoilsinc.com)
 {{</ faq >}}
 
 {{< faq "What areas do you service?" >}}
-We service most counties up and down the I-5 Cooridor including:
+We service most counties up and down the I-5 corridor including:
 
 <i class="fas fa-check-square"></i> Skagit <br>
 <i class="fas fa-check-square"></i> Whatcom <br>
