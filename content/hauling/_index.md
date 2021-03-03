@@ -33,7 +33,7 @@ draft: false
         <div class="col-6">
             <h2>Family-owned, local service</h2>
             <p>
-                We are up to any transportation challenge - big or small. Our customers range from major refineries to local dairy suppliers, with all of whom we work under the priority of providing safe, efficient and environmentally friendly transportation services at affordable rates.
+                We are up to any transportation challenge - big or small. Our customers range from major refineries to local dairy suppliers,  all of whom we work under the priority of providing safe, efficient and environmentally friendly transportation services at affordable rates.
             </p>
         </div>
     </div>

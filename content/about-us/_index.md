@@ -30,9 +30,19 @@ draft: false
             <p>
                 Eight years later, in 1999, it was obvious that larger equipment and better trucks were needed. Along with his brother, Torrey, Troy started Lauts, Inc. and began hauling commingled construction debris. Their mission to improve recycling and sustainability was well underway!
 
-Since then, Lautenbach Recycling has grown to over 50 employees operating 13 roll-off trucks, five live floor trailers, four excavators, and a large fleet of other vehicles and supporting equipment including over 250 roll-off boxes.
+<!-- Since then, Lautenbach Recycling has grown to over 85 employees operating 13 roll-off trucks, five live floor trailers, four excavators, and a large fleet of other vehicles and supporting equipment including over 250 roll-off boxes. -->
+Since then, Lautenbach Recycling has expanded to 4 locations, employing over 85 employees. Our fleet includes:
 
-We serve contractors, businesses and the general public all throughout the I-5 cooridor with a reputation for outstanding service at affordable rates.
+* 25 tractor trucks
+* 9 Roll off trucks
+* 10 live floor trailers
+* 8 tipper trailers
+* 6 end dumps
+* 9 excavators
+* 4 loaders
+* and over 250 boxes
+
+We serve contractors, businesses and the general public all throughout the I-5 corridor with a reputation for outstanding service at affordable rates.
         </p>
         </div>
     </div>

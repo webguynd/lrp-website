@@ -47,7 +47,7 @@ We accept a wide variety of materials ranging from drywall, to metal and everyth
 
 For a full list of what we currently accept, please take a look at our [acceptable materials list](../self-haul/acceptable-materials)
 
-<i class="fas fa-check-square"></i> Painted wood is OK (if not lead paint, we can test it for you) <br>
+<i class="fas fa-check-square"></i> Painted wood is OK (no lead paint, we can test it for you) <br>
 <i class="fas fa-check-square"></i> Wood with nails is OK <br>
 <i class="fas fa-check-square"></i> Concrete with metal is OK <br>
 <i class="fas fa-check-square"></i> Mixed load is OK
@@ -64,6 +64,6 @@ Our recycling facility and customer service offices are open to everyone on: <br
 **Monday through Friday** : 7:00 A.M to 5:00 P.M PDT <br>
 Closed most major holidays.
 
-But we never stop recycling! We offer flexible hours for our drop box and hauling service and our company operates 24 hours a day.
+But we never stop recycling! We offer flexible hours for our drop box and hauling service.
 {{</ faq >}}
 
